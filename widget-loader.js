@@ -42,7 +42,7 @@
 
   const iframe = document.createElement('iframe');
   iframe.id = 'vilta-chat-frame';
-  iframe.src = 'https://viltakis.github.io/livechat/chat-box.html'; // You can change this
+  iframe.src = 'https://embed.tawk.to/6818c700f5c93a190ee01cc0/1iqgcin8m'; // Tawk.to embed
   document.body.appendChild(iframe);
 
   button.addEventListener('click', () => {
